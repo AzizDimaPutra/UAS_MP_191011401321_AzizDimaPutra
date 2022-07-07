@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:uas/providers/artikel_provider.dart';
-import 'package:uas/screens/detail_artikel_screen.dart';
+import 'package:uas/provider/artikel_provider.dart';
+import 'package:uas/screen/detail_artikel_screen.dart';
 
 class ArtikelScreen extends StatefulWidget {
   const ArtikelScreen({Key? key}) : super(key: key);

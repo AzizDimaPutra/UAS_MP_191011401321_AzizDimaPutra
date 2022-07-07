@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:uas/models/detail_artikel_model.dart';
-import 'package:uas/models/artikel_model.dart';
+import 'package:uas/model/detail_artikel_model.dart';
+import 'package:uas/model/artikel_model.dart';
 
 class ArtikelService {
   //get list resep

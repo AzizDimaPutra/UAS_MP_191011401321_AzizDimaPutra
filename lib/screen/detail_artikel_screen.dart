@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:uas/providers/artikel_provider.dart';
+import 'package:uas/provider/artikel_provider.dart';
 
 class DetailArtikelScreen extends StatefulWidget {
   final String? title;
